@@ -5,6 +5,9 @@
 > 惣菜の発注量決定に使える精度かどうかを定性的に評価した。
 > 機械学習の学習を始めて間もない頃に作成した個人開発であり、後続のプロジェクト（心血管疾患予測 / 予知保全 / タクシー需要予測）に比べると分析の深さや統計的検証は限定的だが、**「需要予測ワークフローの全体像を最後まで通す」**という最初の到達点として位置付けている。
 
+**※GitHub側のレンダラー障害により直接表示できない場合があります。
+その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/salesforecast_supermarket/blob/main/demo.ipynb)
 
 ---
